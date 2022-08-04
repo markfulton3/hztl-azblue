@@ -1,0 +1,16 @@
+{
+    "namespace": "azblue-Content",
+    "references": [ "azblue" ],
+    "items": {
+        "includes": [
+            {
+                "name": "content",
+                "path": "/sitecore/content/azblue"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/azblue"
+            }
+        ]
+    }
+}

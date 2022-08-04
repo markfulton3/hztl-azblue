@@ -1,0 +1,24 @@
+{
+    "namespace": "azblue",
+    "references": [ "InitItems" ],
+    "items": {
+        "includes": [
+            {
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Project/azblue"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/azblue"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/azblue"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/azblue"
+            }
+        ]
+    }
+}
